@@ -1,8 +1,11 @@
 # 🧼 Product Requirements Document (PRD)
 
 **Product Name:** Cleana
+
 **Platform:** Mobile-Responsive Web App
+
 **Framework:** Next.js (with TailwindCSS and Supabase)
+
 **Target Users:** Hotel/hostel supervisors and cleaning staff
 
 ---
